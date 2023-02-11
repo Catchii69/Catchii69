@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catchii69" alt="catchii69" /></a> </p>
 
-- 🔭 I’m currently working on **discord.py economy & level bot**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **golang, rust**
 
